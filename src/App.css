@@ -1,0 +1,17 @@
+.flexBox{
+  display: flex;
+  width: 90%;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: auto;
+  max-width: 1100px;
+  /* border: 2px solid red; */
+}
+
+.noData{
+  min-height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
